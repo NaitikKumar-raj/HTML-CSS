@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #424242;
+}
+
+.navbar {
+  background-color: #293b45;
+  padding: 12px;
+  box-shadow: #293b45;
+}
+
+.navbar span{
+    font-size: x-large;
+    font-weight: 800;
+    color: aliceblue;
+    margin-right: 20px;
+}
